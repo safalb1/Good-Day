@@ -1,0 +1,26 @@
+
+
+.great{
+  font-size: 24px;
+  padding-left: 25px;
+}
+
+.con{
+  position: relative;
+  text-align: center;
+  color: white;
+  font-family: 'Parisienne', cursive;
+  font-size: 27px;
+}
+
+.greetings{
+  position: absolute;
+  top: 45%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+}
+
+#baby{
+  height: auto;
+  width:100%;
+}
